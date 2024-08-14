@@ -5,14 +5,18 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-# Project Name
+# Issues and Research around People Experiencing Homelessness in King County Working Group
 
-## The Team
+## Faculty Sponsors
 
-**Project Lead/s:**
+## Faculty and Research Scientists
 
-**Data Science Lead/s:** 
+## Graduate Student members
 
-**DSSG Fellows:** 
+## Undergraduate Student Members
 
-# Abstract or executive summary
+## Email List 
+
+* Join the [email list](https://lists.uw.edu/postorius/lists/kcpehworkinggroup.lists.uw.edu/
+
+# Executive summary
