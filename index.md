@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<img src="{{site.url}}{{site.baseurl}}/assets/img/eScience.png">
-
+<img src="{{site.url}}{{site.baseurl}}/blob/main/assets/img/eScience.png">
 
 # Issues and Research Around People Experiencing Homelessness in King County Working Group
 
