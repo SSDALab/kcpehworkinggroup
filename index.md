@@ -17,6 +17,6 @@ layout: default
 
 ## Email List 
 
-* Join the [email list](https://lists.uw.edu/postorius/lists/kcpehworkinggroup.lists.uw.edu/
+* Join the [email list](https://lists.uw.edu/postorius/lists/kcpehworkinggroup.lists.uw.edu/)
 
 # Executive summary
