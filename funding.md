@@ -3,18 +3,23 @@ layout: page
 title: Funding
 ---
 
-**Partners**
+**UW Partners**
 
 <a href="https://soc.washington.edu/">
 <img width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/uw-dept-logo-sociology-horizontal.png">
 </a>
 <a href="https://csde.washington.edu/">
-<img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/CSDElogo.png:props">
+<img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/CSDElogo.png">
 </a>
 <a href="https://escience.washington.edu/">
 <img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 </a>
 
+** King County Community Partners**
+
+<a href="https://kcrha.org/">
+<img  width="200px" src="">
+</a>
 
 **Funding**
 
