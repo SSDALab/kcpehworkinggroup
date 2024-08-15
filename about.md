@@ -68,7 +68,7 @@ Aja Sutton (pronounced /ˈeɪʒə/) is a computational social scientist and demo
 
 ---
 
-<img width="120" height="120" src="https://amsutton.github.io/images/ajasuttonportrait.jpg"> 
+<img width="120" height="120" src="https://escience.washington.edu/wp-content/uploads/2024/04/headshot_JY-2.png"> 
 
 ### **June Yang, Postdoc, Research Scientist, eScience and CSDE, UW**
 
@@ -85,9 +85,101 @@ June received her PhD in Sociology from UW with concentrations in Demographic Me
 ---
 
 
-
 ### Graduate Students
 
+---
+<img src="https://avisokay.github.io/assets/media/visokay_portrait.jpg" width="120" height="120"> 
+
+### **Adam Visokay, PhD Sociology, UW**
+
+<details>
+<summary>Click for bio</summary>
+  
+Adam Visokay is a computational social scientist at the University of Washington, working with Professor Tyler McCormick. Their research focuses on leveraging artificial intelligence and machine learning to study social phenomena, ranging from using text as data with language models to network-driven survey sampling and statistical inference. Adam's work has applications across sociology, computer science, economics, public health, and demography. They are exploring whether AI can enhance social science research, investigating how it might do so, and identifying its limitations.
+</details>
+
+---
+
+<img src="https://soc.washington.edu/sites/soc/files/styles/portrait/public/profile-images/headshot_square.jpg?h=eb4ed378&itok=PVqW9rub" width="120" height="120"> 
+
+### **Ihsan Kahveci, PhD Sociology, UW**
+
+<details>
+<summary>Click for bio</summary>
+Ihsan Kahveci is a graduate student at the University of Washington, specializing in computational social science and social networks. Their research focuses on understanding social phenomena through computational methods, with a particular interest in how social networks influence behavior and outcomes.
+</details>
+
+---
+<img src="https://soc.washington.edu/sites/soc/files/styles/portrait/public/photos/yehong_deng.jpg?h=690c3297&itok=rfo_FMkZ" width="120" height="120"> 
+
+### **Yehong Deng, PhD Sociology, UW**
+
+<details>
+<summary>Click for bio</summary>
+
+</details>
+
+---
+
+<img src="https://soc.washington.edu/sites/soc/files/styles/portrait/public/photos/brandon_morande.jpg?itok=vY5D0zcM" width="120" height="120"> 
+
+### **Brandon Morande, PhD Sociology, UW**
+
+<details>
+<summary>Click for bio</summary>
+
+Brandon Morande is a graduate student in Sociology at the University of Washington. He holds a B.A. in Sociology and Latin American Studies from Bowdoin College, earned in 2019. His research interests include collective action, criminal law and punishment, deviance and social control, homelessness, and poverty. He teaches courses such as Sociology of Sport and Survey of Sociology. 
+
+</details>
+
+---
+
+---
+<img src="https://soc.washington.edu/sites/soc/files/styles/portrait/public/photos/chassidy_wen_3.jpg?h=4fcc277a&itok=jUBVqrNP" width="120" height="120"> 
+
+### **Chassidy Wen, PhD Sociology, UW**
+
+<details>
+<summary>Click for bio</summary>
+
+Chassidy Wen is a Ph.D. candidate in Sociology at the University of Washington. Her research explores issues related to migration, race and ethnicity, and gender. She has a strong interest in understanding how these factors intersect and influence individual and group experiences within different social contexts. Chassidy's academic work is informed by her commitment to social justice and equity. 
+
+</details>
+
+---
+
+<img src="https://pattillmanfoundation.org/wp-content/uploads/2019/06/Coomes_David_TS2019_400-1.jpg" width="120" height="120"> 
+
+### **David Coomes, PhD Epidemiology, UW**
+
+<details>
+<summary>Click for bio</summary>
+
+David Coomes is a dedicated Ph.D. student in Epidemiology at the University of Washington. A veteran of the U.S. Marine Corps, David enlisted immediately after high school, inspired by the legacy of service in his family. His six years of military service, including a deployment to Iraq, shaped his understanding of leadership and service.
+
+After leaving the military, David continued his commitment to public service by working as a wildland firefighter and smokejumper. During this time, he also completed bachelor’s degrees in biology and anthropology. His experiences in both the Marines and firefighting highlighted the importance of collaborative public action, which influenced his decision to pursue a career in public health.
+
+David has earned dual Master’s degrees in Public Policy and Public Health and has engaged in research aimed at improving the lives of smallholder farmers in Africa and Asia. He has also worked on nutrition policy in Myanmar, driven by a belief in the power of community engagement.
+
+As a 2019 Tillman Scholar, David is currently focused on his Ph.D. in Nutritional Epidemiology, with the goal of influencing better nutrition policy both in the U.S. and internationally. 
+
+</details>
+
+---
+
+<img src="https://soc.washington.edu/sites/soc/files/styles/portrait/public/photos/elizabeth_mendez_nova_1.jpg?h=4fcc277a&itok=Ke2pv8bG" width="120" height="120"> 
+
+### **Elizabeth Nova, PhD Sociology, UW**
+
+<details>
+<summary>Click for bio</summary>
+  
+Elizabeth Nova is a graduate student in the Department of Sociology at the University of Washington. She holds an MA in Sociology from the University of Washington (2023) and a BA in Sociology from the University of California, Riverside (2019). Her research interests include big data, computational methods, demography, health disparities, quantitative methods, race and ethnicity, and social networks. She has taught courses such as "Data and Society" and "Quantified Self: An Introduction to the Societal Implications of Self Tracking."
+
+
+</details>
+
+---
 
 ---
 <img src="https://escience.washington.edu/wp-content/uploads/2024/06/wm_asrm_photos_23_85-1.jpg" width="120" height="120"> 
