@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Funding
+title: Funding and Partners
 ---
 
 **UW Partners**
@@ -15,7 +15,7 @@ title: Funding
 <img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 </a>
 
-** King County Community Partners**
+**King County Community Partners**
 
 <a href="https://kcrha.org/">
 <img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/kcrhalogo.png">
@@ -33,7 +33,6 @@ title: Funding
 
 <img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/NSF_Official_logo_High_Res_1200ppi.png">
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2142964&HistoricalAwards=false">NSF CAREER Grant #SES-2142964</a>. 
-
 
 <img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/NIH_Master_Logo_Vertical_2Color.png">
 <a href="https://csde.washington.edu/about/acknowledge-csde/">Eunice Kennedy Shriver National Institute of Child Health and Human Development research infrastructure grant, P2C HD042828, to the Center for Studies in Demography & Ecology at the University of Washington</a> 
