@@ -8,6 +8,12 @@ layout: default
 
 ## Time and Location
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/savery.png:props?width=250">
+* Location: [Savery Hall](https://www.washington.edu/maps/#!/sav) Room 245
+* Time: 10:00 AM to 11:00 PM every Friday
+* Zoom (Hybred): 
+* Calendar:
+
 ### Faculty Sponsors
 
 * [Zack W. Almquist](https://depts.washington.edu/zalmquist), Sociology
