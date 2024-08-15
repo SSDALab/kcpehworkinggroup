@@ -20,8 +20,6 @@ layout: default
 * [Zack W. Almquist](https://depts.washington.edu/zalmquist), Sociology
 * [Amy Hagopian](https://sph.washington.edu/sph-profiles/faculty-profiles/amy-hagopian), Health Systems and Population Health
 
-### Members
-
 ## Email List 
 
 * Join the [email list](https://lists.uw.edu/postorius/lists/kcpehworkinggroup.lists.uw.edu/)
