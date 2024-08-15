@@ -18,8 +18,13 @@ title: Funding
 ** King County Community Partners**
 
 <a href="https://kcrha.org/">
-<img  width="200px" src="">
+<img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/kcrhalogo.png">
 </a>
+
+<a href="https://etsreach.org">
+<img  width="200px" src="https://etsreach.org/wp-content/themes/reach/dist/images/logo.png">
+</a>
+
 
 **Funding**
 
