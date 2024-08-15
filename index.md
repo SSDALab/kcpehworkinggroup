@@ -8,7 +8,7 @@ layout: default
 
 ## Time and Location
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/savery.png:props?width=250">
+<img width="100px" src="{{ site.url }}{{ site.baseurl }}/assets/img/savery.png">
 * Location: [Savery Hall](https://www.washington.edu/maps/#!/sav) Room 245
 * Time: 10:00 AM to 11:00 PM every Friday
 * Zoom (Hybred): [Registration Link](https://washington.zoom.us/meeting/register/tJcpcO2vrTsiHNO2j2AP5jdQASwPP5NF5mh2)
