@@ -5,10 +5,15 @@ title: Funding
 
 **Partners**
 
+<a href="https://soc.washington.edu/">
 <img width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/uw-dept-logo-sociology-horizontal.png">
-<img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/CSDElogo.png:props?width=250">
-<img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png:props?width=250">
-
+</a>
+<a href="https://csde.washington.edu/">
+<img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/CSDElogo.png:props">
+</a>
+<a href="https://escience.washington.edu/">
+<img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
+</a>
 
 
 **Funding**
