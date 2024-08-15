@@ -4,7 +4,7 @@ layout: default
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/kcpehlogo2.png">
 
-# Issues and Research Around People Experiencing Homelessness Working Group
+---
 
 ## Time and Location
 
