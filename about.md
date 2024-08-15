@@ -20,7 +20,7 @@ Zack W. Almquist is an Associate Professor in the Department of Sociology, an Ad
 </details>
 
 ---
-<img src="hagopian-amy-closeup.jpg" width="120" height="120"> 
+<img width="120" height="120" src="{{ site.url }}{{ site.baseurl }}/assets/img/hagopian-amy-closeup.jpg"> 
 
 ### **Amy Hagopian, Professor Emeritus, Health Systems and Population Health; Global Health, UW**
 
