@@ -16,7 +16,7 @@ title: Funding
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/uw-dept-logo-population-health-initiative-horizontal.png">
 <a href="https://www.washington.edu/populationhealth/2024/06/06/initiative-announces-awardees-of-spring-quarter-2024-tier-3-pilot-research-grants/">Population Health Initiative Tier 2 and Tier 3 Grants</a>.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/NSF_Official_logo_High_Res_1200ppi.png",width="100">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/NSF_Official_logo_High_Res_1200ppi.png">
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2142964&HistoricalAwards=false">NSF CAREER Grant #SES-2142964</a>. 
 
 
