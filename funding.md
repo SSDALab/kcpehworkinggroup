@@ -3,7 +3,7 @@ layout: page
 title: Funding and Partners
 ---
 
-**UW Partners**
+## **UW Partners**
 
 <a href="https://soc.washington.edu/">
 <img width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/uw-dept-logo-sociology-horizontal.png">
@@ -15,7 +15,7 @@ title: Funding and Partners
 <img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 </a>
 
-**King County Community Partners**
+## **King County Community Partners**
 
 <a href="https://kcrha.org/">
 <img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/kcrhalogo.png">
@@ -26,7 +26,7 @@ title: Funding and Partners
 </a>
 
 
-**Funding**
+## **Funding**
 
 <img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/uw-dept-logo-population-health-initiative-horizontal.png">
 <a href="https://www.washington.edu/populationhealth/2024/06/06/initiative-announces-awardees-of-spring-quarter-2024-tier-3-pilot-research-grants/">Population Health Initiative Tier 2 and Tier 3 Grants</a>.
