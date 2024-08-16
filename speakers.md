@@ -3,8 +3,6 @@ layout: page
 title: Past and Future Speakers
 ---
 
-# Past and Future Speakers
-
 * *08/15/2024* Data Science for Social Good Fellows will present on a focus group around people's experience with a new PIT counting method
 
 **Past Talks**
