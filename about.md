@@ -3,8 +3,6 @@ layout: page
 title: Members
 ---
 
-## Members
-
 ### Faculty
 
 ---
@@ -232,6 +230,20 @@ Rebecca is a PhD candidate in Social Psychology at the University of Washington.
 
 </details>
 
+---
+
 ### Undergraduate Students
 
 ---
+
+<img src="[https://escience.washington.edu/wp-content/uploads/2024/06/RS-headshot-cropped.jpg](https://media.licdn.com/dms/image/v2/C4D03AQEQRhWaAAn1tw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1609376857365?e=1729123200&v=beta&t=XfLBVjAN4EdkBDATgY_xiDWJ5EDQtNas0AzPzPxyif4)" width="120" height="120">
+
+### **Evan Graves, Undergraduate, UW**
+
+<details>
+<summary>Click for bio</summary>
+
+</details>
+
+---
+
