@@ -3,7 +3,13 @@ layout: page
 title: Past and Future Speakers
 ---
 
+**Next Speaker**
+
 * *08/15/2024* Data Science for Social Good Fellows will present on a focus group around people's experience with a new PIT counting method
+
+**Upcoming Speakers**
+
+* 
 
 **Past Talks**
 * *07/19/2024* Daniel Malone, Executive Director, DESC
