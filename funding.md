@@ -15,6 +15,8 @@ title: Funding and Partners
 <img  width="200px" src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 </a>
 
+---
+
 ## **King County Community Partners**
 
 <a href="https://kcrha.org/">
@@ -25,6 +27,7 @@ title: Funding and Partners
 <img  width="200px" src="https://etsreach.org/wp-content/themes/reach/dist/images/logo.png">
 </a>
 
+---
 
 ## **Funding**
 
