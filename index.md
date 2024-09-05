@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/kcpehlogo2.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/logo.png">
 
 ---
 
