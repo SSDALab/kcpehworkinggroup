@@ -26,4 +26,4 @@ layout: default
 
 # Executive summary
 
-The <u>Issues and Research Around People Experiencing Homelessness Working Group</u> at the University of Washington is a weekly interdisciplinary meeting space for UW faculty, students, and scientists to collaborate and interact with community members engaged in the homelessness care system.
+The <u>Homelessness Research Working Group</u> at the University of Washington is a weekly interdisciplinary meeting space for UW faculty, students, and scientists to collaborate and interact with community members engaged in the homelessness care system.
