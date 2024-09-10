@@ -66,7 +66,7 @@ Aja Sutton (pronounced /ˈeɪʒə/) is a computational social scientist and demo
 
 ---
 
-<img width="120" height="120" src="https://escience.washington.edu/wp-content/uploads/2024/04/headshot_JY-2.png"> 
+<img width="120" height="120" src="https://escience.washington.edu/wp-content/uploads/2024/08/june-yang-headshot-300x225-1.jpg"> 
 
 ### **June Yang, Postdoc, Research Scientist, eScience and CSDE, UW**
 
@@ -180,7 +180,7 @@ Elizabeth Nova is a graduate student in the Department of Sociology at the Unive
 ---
 
 ---
-<img src="https://escience.washington.edu/wp-content/uploads/2024/06/wm_asrm_photos_23_85-1.jpg" width="120" height="120"> 
+<img src="https://escience.washington.edu/wp-content/uploads/2024/08/Felix_Kubi-scaled.jpg" width="120" height="120"> 
 
 ### **Felix Junior Appiah Kubi, DSSG Fellow**
 
@@ -193,7 +193,7 @@ Felix is a dedicated scholar and data scientist with a passion for leveraging st
 
 ---
 
-<img src="https://escience.washington.edu/wp-content/uploads/2024/06/Brooke-Kaye.jpg" width="120" height="120">
+<img src="https://escience.washington.edu/wp-content/uploads/2024/08/Brooke-Kaye.jpeg" width="120" height="120">
 
 ### **Brooke Kaye, DSSG Fellow**
 
@@ -206,7 +206,7 @@ Brooke grew up in North Dakota and received a bachelor’s degree in natural res
 
 ---
 
-<img src="https://escience.washington.edu/wp-content/uploads/2024/06/headshot_1.jpg" width="120" height="120">
+<img src="https://escience.washington.edu/wp-content/uploads/2024/08/Jess_Robinson.jpeg" width="120" height="120">
 
 ### **Jess Robinson, DSSG Fellow**
 
@@ -219,7 +219,7 @@ Jess Robinson is a PhD student in Sociology at Columbia University and an incomi
 
 ---
 
-<img src="https://escience.washington.edu/wp-content/uploads/2024/06/RS-headshot-cropped.jpg" width="120" height="120">
+<img src="https://escience.washington.edu/wp-content/uploads/2024/08/Rebecca_Schactman.jpeg" width="120" height="120">
 
 ### **Rebecca Schachtman, DSSG Fellow**
 
