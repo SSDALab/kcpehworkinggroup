@@ -5,7 +5,7 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* 
+* *09/27/2024* Hugo A. Aguas, PhD Student Sociology, UW - California's Homeless Provider Burnout
 
 **Upcoming Speakers**
 
