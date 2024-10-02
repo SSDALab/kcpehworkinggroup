@@ -10,7 +10,9 @@ title: Past and Future Speakers
 **Upcoming Speakers**
 * *10/18/2024* [Andrew Messamore](https://andrewmessamore.com/), Assistant Professor of Sociology, UW - ["The Effect of Community Organizing on Landlords’ Use of Eviction Filing: Evidence from U.S. Cities"](https://static1.squarespace.com/static/62979bf265651266e3cb6717/t/63c05431b55cc33acdff58b9/1673548849962/Messamore+-+2023+-+The+Effect+of+Community+Organizing+on+Landlords%E2%80%99+U.pdf)
 * *10/25/2024* [Horacio de la Iglesia](https://www.biology.washington.edu/people/profile/horacio-de-la-iglesia), Professor of Biology, UW - Will speak about sleep in people experiencing homelessness.
-* *11/01/2024* [Devin Collins](https://soc.washington.edu/people/devin-collins), PhD Student, in Sociology, UW -- collaborative paper with Selen on the Seattle SOE. <details>
+* *11/01/2024* [Devin Collins](https://soc.washington.edu/people/devin-collins), PhD Student, in Sociology, UW -- collaborative paper with Selen on the Seattle SOE.
+<ul>
+<details>
 <summary>Click for details</summary>
 <b>Title</b>: A Prolonged State of Emergency for Homelessness? The 2015 Proclamations in Seattle and
 the Exercise of Symbolic Power
@@ -32,6 +34,8 @@ increasing homelessness presents. By interrogating the disjuncture between offic
 policy, this study offers new insights on the operation of social control and crisis mitigation in
 contemporary neoliberal cities.
 </details>
+</ul>
+
 * *11/08/2024* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 * *01/25/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
 
