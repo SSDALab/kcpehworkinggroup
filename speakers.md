@@ -9,6 +9,28 @@ title: Past and Future Speakers
 
 **Upcoming Speakers**
 * *10/18/2024* [Andrew Messamore](https://andrewmessamore.com/), Assistant Professor of Sociology, UW - ["The Effect of Community Organizing on Landlords’ Use of Eviction Filing: Evidence from U.S. Cities"](https://static1.squarespace.com/static/62979bf265651266e3cb6717/t/63c05431b55cc33acdff58b9/1673548849962/Messamore+-+2023+-+The+Effect+of+Community+Organizing+on+Landlords%E2%80%99+U.pdf)
+
+<ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+<b>Title</b>: The Effect of Community Organizing on Landlords’ Use of Eviction Filing: Evidence from U.S. Cities
+<b>Authors</b>: Andrew Messamore
+<b>Abstract</b>: Eviction filing rates have declined in many large cities in the United States. Existing scholarship on eviction, which focuses on discrete tenant-landlord relationships, has few explanations for this decline. I
+consider whether community organizing by nonprofit organizations shapes the social organization of
+communities and causes landlords to file fewer eviction filings. In cities where tenant and anti-poverty
+organizing has become common, community-oriented nonprofit organizations advocate for disadvantaged communities and help residents avoid poverty. Community organizing has rarely been studied as a
+predictor of housing security among low-income tenants, despite studies of how community organizing
+shapes the use of property in wealthy neighborhoods. I estimate the causal effect of community organizations on eviction filing rates between 2000 and 2016 using longitudinal data and a strategy to account for
+the endogeneity of nonprofits and eviction. Evidence from year-to-year models in 75 large cities spanning
+sixteen years estimate that an addition of ten community nonprofits in a city of 100,000 residents is associated with a ten percent reduction in eviction filing. This effect is comparable to the effect of community
+organizations on murder and is roughly a third of the association between eviction and concentrated
+disadvantage.
+</details>
+</ul>
+</ul>
+
+
 * *10/25/2024* [Horacio de la Iglesia](https://www.biology.washington.edu/people/profile/horacio-de-la-iglesia), Professor of Biology, UW - Will speak about sleep in people experiencing homelessness.
 * *11/01/2024* [Devin Collins](https://soc.washington.edu/people/devin-collins), PhD Student, in Sociology, UW -- collaborative paper with Selen on the Seattle SOE.
 <ul>
