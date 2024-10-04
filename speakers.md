@@ -12,7 +12,9 @@ title: Past and Future Speakers
 <details>
 <summary>Click for details</summary>
 <b>Title</b>: The Effect of Community Organizing on Landlords’ Use of Eviction Filing: Evidence from U.S. Cities
+ 
 <b>Authors</b>: Andrew Messamore
+
 <b>Abstract</b>: Eviction filing rates have declined in many large cities in the United States. Existing scholarship on eviction, which focuses on discrete tenant-landlord relationships, has few explanations for this decline. I
 consider whether community organizing by nonprofit organizations shapes the social organization of
 communities and causes landlords to file fewer eviction filings. In cities where tenant and anti-poverty
@@ -35,9 +37,12 @@ disadvantage.
 <ul>
 <details>
 <summary>Click for details</summary>
+ 
 <b>Title</b>: A Prolonged State of Emergency for Homelessness? The 2015 Proclamations in Seattle and
 the Exercise of Symbolic Power
+
 <b>Authors</b>: Selen Güler and Devin Collins (co-first authors)
+
 <b>Abstract</b>: In fast-growing urban centers, growing homelessness has emerged as a vexing issue confronting
 local leaders. While poverty governance scholars assert that state actors respond by embracing
 strategies of punitive containment, overt criminalization may be untenable in the socially
@@ -64,7 +69,9 @@ contemporary neoliberal cities.
 <details>
 <summary>Click for details</summary>
 <b>Title</b>: TBD
+ 
 <b>Authors</b>: Arturo Baiocchi
+
 <b>Biography</b>: Dr. Baiocchi is an Associate Professor at the School of Social Work at Sacramento State and a Faculty Fellow at the Center for Health Policy, Practice, and Research (CHPRR). His research focuses on vulnerable young adults, mental health, and homelessness. He also teaches course in social welfare policy, homelessness, and community-based research.
 In the past seven years, Dr. Baiocchi, along with colleagues, have drafted a series of academic publications and community reports on the prevalence and response to homelessness in Sacramento County and across the state (e.g., reports for the CA Dept of Social Services, CA Interagency Council on Homelessness, US Bureau of Justice, Sacramento Continuum of Care, CA Health Foundation). Notably, Dr. Baiocchi was the lead author of the 2022 report “State of Homelessness in Sacramento County,” which highlighted pronounced trends in growing numbers of individuals experiencing homelessness in Sacramento, ongoing racial disparities, as well as the disconnect and marginalization that many individuals living on the street feel toward policies to address homelessness. His research has been highlighted in the Sacramento Bee, the Los Angeles Times, the Chris=an Science Monitor, Kaiser Health News, Capital Public Radio, CalMatters, and other media. In October 2022, Dr. Baiocchi received the Homeless Justice Champion of the Year award from the Sacramento Housing Alliance.
 </details>
