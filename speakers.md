@@ -31,7 +31,6 @@ disadvantage.
 
 * *10/25/2024* [Horacio de la Iglesia](https://www.biology.washington.edu/people/profile/horacio-de-la-iglesia), Professor of Biology, UW - Will speak about sleep in people experiencing homelessness.
 * *11/01/2024* [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Associate Professor in Runstad Department of Real Estate in the College of Built Environments, UW -- will speak on his book "Homelessness is a Housing Problem: How Structural Factors Explain U.S. Patterns"
-* *11/08/2024* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 
 <ul>
 <ul>
@@ -44,6 +43,7 @@ Using rich and detailed data, this groundbreaking book explains why homelessness
 </ul>
 </ul>
 
+* *11/08/2024* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 * *11/22/2024* [Arturo Baiocchi](https://scholars.csus.edu/esploro/profile/arturo_baiocchi/overview), Associate Professor at California State University, Sacramento -- Will speak on his experience running the PIT survey and work with government-sanctioned camp in Sacramento.
 
 <ul>
