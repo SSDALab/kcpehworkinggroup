@@ -32,6 +32,18 @@ disadvantage.
 * *10/25/2024* [Horacio de la Iglesia](https://www.biology.washington.edu/people/profile/horacio-de-la-iglesia), Professor of Biology, UW - Will speak about sleep in people experiencing homelessness.
 * *11/01/2024* [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Associate Professor in Runstad Department of Real Estate in the College of Built Environments, UW -- will speak on his book "Homelessness is a Housing Problem: How Structural Factors Explain U.S. Patterns"
 * *11/08/2024* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
+
+<ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+Gregg Colburn, an associate professor in the Runstad Department of Real Estate in the College of Built Environments at the University of Washington, will talk about his book Homelessness is a Housing Problem. The book helps us better understand the current homelessness crisis, how we got here as a nation, and how we can do better in the future. 
+
+Using rich and detailed data, this groundbreaking book explains why homelessness has become a crisis in America and reveals the structural conditions that underlie it. In a departure from many analytical approaches, Colburn and Aldern shift their focus from the individual experiencing homelessness to the metropolitan area. Using accessible statistical analysis, they test a range of conventional beliefs about what drives the prevalence of homelessness in a given city—including mental illness, drug use, poverty, weather, generosity of public assistance, and low-income mobility—and find that none explain the regional variation observed across the country. Instead, housing market conditions, such as the cost and availability of rental housing, offer a far more convincing account. With rigor and clarity, "Homelessness Is a Housing Problem" explores U.S. cities' diverse experiences with housing precarity and offers policy solutions for unique regional contexts.
+</details>
+</ul>
+</ul>
+
 * *11/22/2024* [Arturo Baiocchi](https://scholars.csus.edu/esploro/profile/arturo_baiocchi/overview), Associate Professor at California State University, Sacramento -- Will speak on his experience running the PIT survey and work with government-sanctioned camp in Sacramento.
 
 <ul>
