@@ -86,7 +86,21 @@ contemporary neoliberal cities.
 </details>
 </ul>
 </ul>
-* *01/25/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
+
+* *01/24/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
+* *01/31/2024* [Nathanael Lauster](https://sociology.ubc.ca/profile/nathanael-lauster/), Associate Professor of Sociology, UBC -- will speak on talk about what we see up here via homeless counts, etc, and local experiences, as well as what we get from comparative homeless counts in Vancouver, BC.
+
+<ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+
+See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, point-in-time count <a href="https://homefreesociology.com/2019/05/03/comparing-homeless-counts-bc-edition/">here</a>.
+
+</details>
+</ul>
+</ul>
+
 
 **Past Talks**
 * *10/04/2024* [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student in Sociology, UW - Will present relational event models on tent displacement events in REACH data. 
