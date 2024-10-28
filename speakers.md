@@ -5,10 +5,6 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* *10/25/2024* [Horacio de la Iglesia](https://www.biology.washington.edu/people/profile/horacio-de-la-iglesia), Professor of Biology, UW - Will speak about sleep in people experiencing homelessness.
-
-**Upcoming Speakers**
-
 * *11/01/2024* [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Associate Professor in Runstad Department of Real Estate in the College of Built Environments, UW -- will speak on his book "Homelessness is a Housing Problem: How Structural Factors Explain U.S. Patterns"
 
 <ul>
@@ -21,6 +17,8 @@ Using rich and detailed data, this groundbreaking book explains why homelessness
 </details>
 </ul>
 </ul>
+
+**Upcoming Speakers**
 
 * *11/08/2024* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 * *11/22/2024* [Arturo Baiocchi](https://scholars.csus.edu/esploro/profile/arturo_baiocchi/overview), Associate Professor at California State University, Sacramento -- Will speak on his experience running the PIT survey and work with government-sanctioned camp in Sacramento.
@@ -82,6 +80,8 @@ See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, poin
 
 
 **Past Talks**
+
+* *10/25/2024* [Horacio de la Iglesia](https://www.biology.washington.edu/people/profile/horacio-de-la-iglesia), Professor of Biology, UW - Will speak about sleep in people experiencing homelessness.
 * *10/18/2024* [Andrew Messamore](https://andrewmessamore.com/), Assistant Professor of Sociology, UW - ["The Effect of Community Organizing on Landlords’ Use of Eviction Filing: Evidence from U.S. Cities"](https://static1.squarespace.com/static/62979bf265651266e3cb6717/t/63c05431b55cc33acdff58b9/1673548849962/Messamore+-+2023+-+The+Effect+of+Community+Organizing+on+Landlords%E2%80%99+U.pdf)
 
 <ul>
