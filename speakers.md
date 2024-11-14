@@ -5,11 +5,11 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* *11/08/2024* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
+* *11/15/2024* [Chris Herring](https://soc.ucla.edu/person/chris-herring/), Assistant Professor, UCLA -- Will present a chapter from his forthcoming book "Carewashing criminalization" on the ways liberal cities legitimate ongoing criminalization and the politics of criminalizing poverty more generally. 
 
 **Upcoming Speakers**
 
-* *11/15/2024* [Chris Herring](https://soc.ucla.edu/person/chris-herring/), Assistant Professor, UCLA -- Will present a chapter from his forthcoming book "Carewashing criminalization" on the ways liberal cities legitimate ongoing criminalization and the politics of criminalizing poverty more generally. 
+
 * *11/22/2024* [Arturo Baiocchi](https://scholars.csus.edu/esploro/profile/arturo_baiocchi/overview), Associate Professor at California State University, Sacramento -- Will speak on his experience running the PIT survey and work with government-sanctioned camp in Sacramento.
 
 <ul>
@@ -68,6 +68,8 @@ See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, poin
 </ul>
 
 * *02/07/2025* [Ryan M Finnigan](https://www.ryanmfinnigan.com/), Associate Research Director, Terner Center for Housing Innovation, University of California, Berkeley
+
+* *TBD Rescheduled* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 
 
 **Past Talks**
