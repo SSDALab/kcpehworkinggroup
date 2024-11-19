@@ -69,6 +69,7 @@ See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, poin
 
 * *02/14/2025* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 
+* *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
 
 **Past Talks**
 
