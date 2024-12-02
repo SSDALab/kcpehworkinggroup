@@ -5,24 +5,7 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-
-* *11/22/2024* [Arturo Baiocchi](https://scholars.csus.edu/esploro/profile/arturo_baiocchi/overview), Associate Professor at California State University, Sacramento -- Will speak on his experience running the PIT survey and work with government-sanctioned camp in Sacramento.
-
-<ul>
-<ul>
-<details>
-<summary>Click for details</summary>
-<b>Title</b>: TBD<br>
-<b>Authors</b>: Arturo Baiocchi<br>
-<b>Biography</b>: Dr. Baiocchi is an Associate Professor at the School of Social Work at Sacramento State and a Faculty Fellow at the Center for Health Policy, Practice, and Research (CHPRR). His research focuses on vulnerable young adults, mental health, and homelessness. He also teaches course in social welfare policy, homelessness, and community-based research.
-In the past seven years, Dr. Baiocchi, along with colleagues, have drafted a series of academic publications and community reports on the prevalence and response to homelessness in Sacramento County and across the state (e.g., reports for the CA Dept of Social Services, CA Interagency Council on Homelessness, US Bureau of Justice, Sacramento Continuum of Care, CA Health Foundation). Notably, Dr. Baiocchi was the lead author of the 2022 report “State of Homelessness in Sacramento County,” which highlighted pronounced trends in growing numbers of individuals experiencing homelessness in Sacramento, ongoing racial disparities, as well as the disconnect and marginalization that many individuals living on the street feel toward policies to address homelessness. His research has been highlighted in the Sacramento Bee, the Los Angeles Times, the Chris=an Science Monitor, Kaiser Health News, Capital Public Radio, CalMatters, and other media. In October 2022, Dr. Baiocchi received the Homeless Justice Champion of the Year award from the Sacramento Housing Alliance.
-</details>
-</ul>
-</ul>
-
-**Upcoming Speakers**
-
-* *12/06/2024* [Devin Collins](https://soc.washington.edu/people/devin-collins), PhD Student, in Sociology, UW -- collaborative paper with Selen on the Seattle SOE.
+* *12/10/2025* [Devin Collins](https://soc.washington.edu/people/devin-collins), PhD Student, in Sociology, UW -- collaborative paper with Selen on the Seattle SOE.
 
 <ul>
 <ul>
@@ -51,6 +34,9 @@ contemporary neoliberal cities.
 </ul>
 </ul>
 
+
+**Upcoming Speakers**
+
 * *01/24/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
 * *01/31/2024* [Nathanael Lauster](https://sociology.ubc.ca/profile/nathanael-lauster/), Associate Professor of Sociology, UBC -- will speak on talk about what we see up here via homeless counts, etc, and local experiences, as well as what we get from comparative homeless counts in Vancouver, BC.
 
@@ -72,6 +58,20 @@ See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, poin
 * *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
 
 **Past Talks**
+
+* *11/22/2024* [Arturo Baiocchi](https://scholars.csus.edu/esploro/profile/arturo_baiocchi/overview), Associate Professor at California State University, Sacramento -- Will speak on his experience running the PIT survey and work with government-sanctioned camp in Sacramento.
+
+<ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+<b>Title</b>: TBD<br>
+<b>Authors</b>: Arturo Baiocchi<br>
+<b>Biography</b>: Dr. Baiocchi is an Associate Professor at the School of Social Work at Sacramento State and a Faculty Fellow at the Center for Health Policy, Practice, and Research (CHPRR). His research focuses on vulnerable young adults, mental health, and homelessness. He also teaches course in social welfare policy, homelessness, and community-based research.
+In the past seven years, Dr. Baiocchi, along with colleagues, have drafted a series of academic publications and community reports on the prevalence and response to homelessness in Sacramento County and across the state (e.g., reports for the CA Dept of Social Services, CA Interagency Council on Homelessness, US Bureau of Justice, Sacramento Continuum of Care, CA Health Foundation). Notably, Dr. Baiocchi was the lead author of the 2022 report “State of Homelessness in Sacramento County,” which highlighted pronounced trends in growing numbers of individuals experiencing homelessness in Sacramento, ongoing racial disparities, as well as the disconnect and marginalization that many individuals living on the street feel toward policies to address homelessness. His research has been highlighted in the Sacramento Bee, the Los Angeles Times, the Chris=an Science Monitor, Kaiser Health News, Capital Public Radio, CalMatters, and other media. In October 2022, Dr. Baiocchi received the Homeless Justice Champion of the Year award from the Sacramento Housing Alliance.
+</details>
+</ul>
+</ul>
 
 * *11/15/2024* [Chris Herring](https://soc.ucla.edu/person/chris-herring/), Assistant Professor, UCLA -- Will present a chapter from his forthcoming book "Carewashing criminalization" on the ways liberal cities legitimate ongoing criminalization and the politics of criminalizing poverty more generally.
 * 
