@@ -5,7 +5,7 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* *12/10/2025* [Devin Collins](https://soc.washington.edu/people/devin-collins), PhD Student, in Sociology, UW -- collaborative paper with Selen on the Seattle SOE.
+* *2/10/2025* [Devin Collins](https://soc.washington.edu/people/devin-collins), PhD Student, in Sociology, UW -- collaborative paper with Selen on the Seattle SOE.
 
 <ul>
 <ul>
