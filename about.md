@@ -236,7 +236,7 @@ Rebecca is a PhD candidate in Social Psychology at the University of Washington.
 
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/evan.jpg" width="120" height="120">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/evan.jpeg" width="120" height="120">
 
 ### **Evan Graves, Undergraduate, UW**
 
