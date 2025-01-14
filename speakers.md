@@ -5,6 +5,37 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
+* *01/17/2024* [Thomas Byrne](https://www.bu.edu/ssw/profile/thomas-byrne/), Associate Professor of Social Work, Boston University -- Will speak on new work coming out in JAMA Network Open that presents new evidence from 2020 Census Data about the aging of the homeless population and a recent paper that looks at the community-level relationship between eviction and homelessness. **In Person**
+
+
+**Upcoming Speakers**
+
+
+* *01/24/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
+* *01/31/2024* [Nathanael Lauster](https://sociology.ubc.ca/profile/nathanael-lauster/), Associate Professor of Sociology, UBC -- will speak on talk about what we see up here via homeless counts, etc, and local experiences, as well as what we get from comparative homeless counts in Vancouver, BC.
+
+<ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+
+See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, point-in-time count <a href="https://homefreesociology.com/2019/05/03/comparing-homeless-counts-bc-edition/">here</a>.
+
+</details>
+</ul>
+</ul>
+
+* *02/07/2025* [Ryan M Finnigan](https://www.ryanmfinnigan.com/), Associate Research Director, Terner Center for Housing Innovation, University of California, Berkeley
+
+* *02/14/2025* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
+
+* *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
+
+* *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health -- will speak on couch surfing and issues around youth homelessness.
+
+
+**Past Talks**
+
 * *01/10/2025* [Devin Collins](https://soc.washington.edu/people/devin-collins), PhD Student, in Sociology, UW -- collaborative paper with Selen on the Seattle SOE.
 
 <ul>
@@ -33,35 +64,6 @@ contemporary neoliberal cities.
 </details>
 </ul>
 </ul>
-
-
-**Upcoming Speakers**
-
-* *01/17/2024* [Thomas Byrne](https://www.bu.edu/ssw/profile/thomas-byrne/), Associate Professor of Social Work, Boston University -- Will speak on new work coming out in JAMA Network Open that presents new evidence from 2020 Census Data about the aging of the homeless population and a recent paper that looks at the community-level relationship between eviction and homelessness.
-* *01/24/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
-* *01/31/2024* [Nathanael Lauster](https://sociology.ubc.ca/profile/nathanael-lauster/), Associate Professor of Sociology, UBC -- will speak on talk about what we see up here via homeless counts, etc, and local experiences, as well as what we get from comparative homeless counts in Vancouver, BC.
-
-<ul>
-<ul>
-<details>
-<summary>Click for details</summary>
-
-See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, point-in-time count <a href="https://homefreesociology.com/2019/05/03/comparing-homeless-counts-bc-edition/">here</a>.
-
-</details>
-</ul>
-</ul>
-
-* *02/07/2025* [Ryan M Finnigan](https://www.ryanmfinnigan.com/), Associate Research Director, Terner Center for Housing Innovation, University of California, Berkeley
-
-* *02/14/2025* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
-
-* *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
-
-* *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health -- will speak on couch surfing and issues around youth homelessness.
-
-
-**Past Talks**
 
 * *11/22/2024* [Arturo Baiocchi](https://scholars.csus.edu/esploro/profile/arturo_baiocchi/overview), Associate Professor at California State University, Sacramento -- Will speak on his experience running the PIT survey and work with government-sanctioned camp in Sacramento.
 
