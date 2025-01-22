@@ -81,7 +81,7 @@ In the past seven years, Dr. Baiocchi, along with colleagues, have drafted a ser
 </ul>
 
 * *11/15/2024* [Chris Herring](https://soc.ucla.edu/person/chris-herring/), Assistant Professor, UCLA -- Will present a chapter from his forthcoming book "Carewashing criminalization" on the ways liberal cities legitimate ongoing criminalization and the politics of criminalizing poverty more generally.
-* 
+
 * *11/01/2024* [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Associate Professor in Runstad Department of Real Estate in the College of Built Environments, UW -- will speak on his book "Homelessness is a Housing Problem: How Structural Factors Explain U.S. Patterns"
 
 <ul>
