@@ -117,6 +117,7 @@ disadvantage.
 </details>
 </ul>
 </ul>
+
 * *10/04/2024* [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student in Sociology, UW - Will present relational event models on tent displacement events in REACH data. 
 * *09/27/2024* Hugo A. Aguas, PhD Student Sociology, UW - California's Homeless Provider Burnout
 * *08/15/2024* Data Science for Social Good Fellows will present on a focus group around people's experience with a new PIT counting method
