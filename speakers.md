@@ -5,13 +5,10 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* *01/17/2024* [Thomas Byrne](https://www.bu.edu/ssw/profile/thomas-byrne/), Associate Professor of Social Work, Boston University -- Will speak on new work coming out in JAMA Network Open that presents new evidence from 2020 Census Data about the aging of the homeless population and a recent paper that looks at the community-level relationship between eviction and homelessness. **In Person**
-
+* *01/24/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
 
 **Upcoming Speakers**
 
-
-* *01/24/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
 * *01/31/2024* [Nathanael Lauster](https://sociology.ubc.ca/profile/nathanael-lauster/), Associate Professor of Sociology, UBC -- will speak on talk about what we see up here via homeless counts, etc, and local experiences, as well as what we get from comparative homeless counts in Vancouver, BC.
 
 <ul>
@@ -35,6 +32,8 @@ See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, poin
 
 
 **Past Talks**
+
+* *01/17/2024* [Thomas Byrne](https://www.bu.edu/ssw/profile/thomas-byrne/), Associate Professor of Social Work, Boston University -- Will speak on new work coming out in JAMA Network Open that presents new evidence from 2020 Census Data about the aging of the homeless population and a recent paper that looks at the community-level relationship between eviction and homelessness. **In Person**
 
 * *01/10/2025* [Devin Collins](https://soc.washington.edu/people/devin-collins), PhD Student, in Sociology, UW -- collaborative paper with Selen on the Seattle SOE.
 
@@ -80,7 +79,7 @@ In the past seven years, Dr. Baiocchi, along with colleagues, have drafted a ser
 </ul>
 
 * *11/15/2024* [Chris Herring](https://soc.ucla.edu/person/chris-herring/), Assistant Professor, UCLA -- Will present a chapter from his forthcoming book "Carewashing criminalization" on the ways liberal cities legitimate ongoing criminalization and the politics of criminalizing poverty more generally.
-* 
+ 
 * *11/01/2024* [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Associate Professor in Runstad Department of Real Estate in the College of Built Environments, UW -- will speak on his book "Homelessness is a Housing Problem: How Structural Factors Explain U.S. Patterns"
 
 <ul>
@@ -116,6 +115,7 @@ disadvantage.
 </details>
 </ul>
 </ul>
+
 * *10/04/2024* [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student in Sociology, UW - Will present relational event models on tent displacement events in REACH data. 
 * *09/27/2024* Hugo A. Aguas, PhD Student Sociology, UW - California's Homeless Provider Burnout
 * *08/15/2024* Data Science for Social Good Fellows will present on a focus group around people's experience with a new PIT counting method
