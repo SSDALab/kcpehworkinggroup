@@ -28,7 +28,7 @@ See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, poin
 
 * *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
 
-* *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health -- will speak on couch surfing and issues around youth homelessness.
+* *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health at UC Berkeley -- will speak on couch surfing and issues around youth homelessness.
 
 
 **Past Talks**
