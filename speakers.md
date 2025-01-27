@@ -30,6 +30,8 @@ See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, poin
 
 * *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health at UC Berkeley -- will speak on couch surfing and issues around youth homelessness.
 
+*  *05/16/2025* [Michael Enich](https://scholar.google.com/citations?user=3oZx7DYAAAAJ&hl=en), Internal Medicine Resident, UW -- Will speak on a mixed-methods analysis of linked Medicaid and HMIS claims. It examined the prevalence of the ICD-10 code for homelessness, Z59.0, and its concordance with known homeless service use. It also included physician interviews exploring their perspectives on prevalence pattern  in using the code.
+
 
 **Past Talks**
 
