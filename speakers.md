@@ -5,11 +5,7 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* *01/24/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
-
-**Upcoming Speakers**
-
-* *01/31/2024* [Nathanael Lauster](https://sociology.ubc.ca/profile/nathanael-lauster/), Associate Professor of Sociology, UBC -- will speak on talk about what we see up here via homeless counts, etc, and local experiences, as well as what we get from comparative homeless counts in Vancouver, BC.
+* *01/31/2024* [Nathanael Lauster](https://sociology.ubc.ca/profile/nathanael-lauster/), Associate Professor of Sociology, UBC -- will talk about what we see up here via homeless counts, etc, and local experiences, as well as what we get from comparative homeless counts in Vancouver, BC.
 
 <ul>
 <ul>
@@ -21,6 +17,8 @@ See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, poin
 </details>
 </ul>
 </ul>
+
+**Upcoming Speakers**
 
 * *02/07/2025* [Ryan M Finnigan](https://www.ryanmfinnigan.com/), Associate Research Director, Terner Center for Housing Innovation, University of California, Berkeley
 
@@ -34,6 +32,9 @@ See Dr Lauster's blog post on comparing King County, WA with Vancouver, WA, poin
 
 
 **Past Talks**
+
+* *01/24/2025* [Jason M. Ward](https://www.rand.org/about/people/w/ward_jason_m.html), Codirector, RAND Center on Housing and Homelessness - will speak on ongoing enumeration/survey project on unsheltered homelessness in 3 neighborhoods in LA.
+
 
 * *01/17/2024* [Thomas Byrne](https://www.bu.edu/ssw/profile/thomas-byrne/), Associate Professor of Social Work, Boston University -- Will speak on new work coming out in JAMA Network Open that presents new evidence from 2020 Census Data about the aging of the homeless population and a recent paper that looks at the community-level relationship between eviction and homelessness. **In Person**
 
