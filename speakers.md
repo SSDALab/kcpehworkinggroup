@@ -5,20 +5,21 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* *02/07/2025* [Ryan M Finnigan](https://www.ryanmfinnigan.com/), Associate Research Director, Terner Center for Housing Innovation, University of California, Berkeley
+* *02/14/2025* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 
 **Upcoming Speakers**
 
-* *02/14/2025* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 
 * *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
 
 * *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health at UC Berkeley -- will speak on couch surfing and issues around youth homelessness.
 
-*  *05/16/2025* [Michael Enich](https://scholar.google.com/citations?user=3oZx7DYAAAAJ&hl=en), Internal Medicine Resident, UW -- Will speak on a mixed-methods analysis of linked Medicaid and HMIS claims. It examined the prevalence of the ICD-10 code for homelessness, Z59.0, and its concordance with known homeless service use. It also included physician interviews exploring their perspectives on prevalence pattern  in using the code.
+*  *05/16/2025* [Michael Enich](https://scholar.google.com/citations?user=3oZx7DYAAAAJ&hl=en), Internal Medicine Resident, UW -- Will speak on a mixed-methods analysis of linked Medicaid and HMIS claims. It examined the prevalence of the ICD-10 code for homelessness, Z59.0, and its concordance with known homeless service use. It also included physician interviews exploring their perspectives on prevalence patterns in using the code.
 
 
 **Past Talks**
+
+* *02/07/2025* [Ryan M Finnigan](https://www.ryanmfinnigan.com/), Associate Research Director, Terner Center for Housing Innovation, University of California, Berkeley
 
 * *01/31/2024* [Nathanael Lauster](https://sociology.ubc.ca/profile/nathanael-lauster/), Associate Professor of Sociology, UBC -- will talk about what we see up here via homeless counts, etc, and local experiences, as well as what we get from comparative homeless counts in Vancouver, BC.
 
