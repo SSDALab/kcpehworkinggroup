@@ -5,12 +5,9 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* *02/14/2025* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
+* *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
 
 **Upcoming Speakers**
-
-
-* *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
 
 * *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health at UC Berkeley -- will speak on couch surfing and issues around youth homelessness.
 
@@ -18,6 +15,8 @@ title: Past and Future Speakers
 
 
 **Past Talks**
+
+* *02/14/2025* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 
 * *02/07/2025* [Ryan M Finnigan](https://www.ryanmfinnigan.com/), Associate Research Director, Terner Center for Housing Innovation, University of California, Berkeley
 
