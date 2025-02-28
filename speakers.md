@@ -23,6 +23,8 @@ As part of an iSchool Capstone project, a team of 10 undergrad students are work
 
 * *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health at UC Berkeley -- will speak on couch surfing and issues around youth homelessness.
 
+*  *04/18/2025* Brandon Morande, PhD Student, Sociology, UW to talk on his MA Thesis on governmental control of people experiencing homelessness
+
 *  *05/16/2025* [Michael Enich](https://scholar.google.com/citations?user=3oZx7DYAAAAJ&hl=en), Internal Medicine Resident, UW -- Will speak on a mixed-methods analysis of linked Medicaid and HMIS claims. It examined the prevalence of the ICD-10 code for homelessness, Z59.0, and its concordance with known homeless service use. It also included physician interviews exploring their perspectives on prevalence patterns in using the code.
 
 
