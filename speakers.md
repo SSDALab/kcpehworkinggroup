@@ -5,7 +5,7 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* *03/07/2025* iSchool Capstone Presentation lead by June Yang, Research Scientist, eScience and CSDE, and Ihsan Kahveci, PhD Student, Sociology, UW
+* *03/07/2025* iSchool Capstone Presentation lead by [June Yang](https://escience.washington.edu/member/june-yang/), Research Scientist, eScience and CSDE, and [Ihsan Kahveci](https://soc.washington.edu/people/ihsan-kahveci), PhD Student, Sociology, UW
   - Special Time: 3/7 from 10-12PM
   - Special Location: iSchool. Allen Library 187. Grand Conference Room. 
  
@@ -23,7 +23,7 @@ As part of an iSchool Capstone project, a team of 10 undergrad students are work
 
 * *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health at UC Berkeley -- will speak on couch surfing and issues around youth homelessness.
 
-*  *04/18/2025* Brandon Morande, PhD Student, Sociology, UW to talk on his MA Thesis on governmental control of people experiencing homelessness
+*  *04/18/2025* [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student, Sociology, UW to talk on his MA Thesis on governmental control of people experiencing homelessness
 
 *  *05/16/2025* [Michael Enich](https://scholar.google.com/citations?user=3oZx7DYAAAAJ&hl=en), Internal Medicine Resident, UW -- Will speak on a mixed-methods analysis of linked Medicaid and HMIS claims. It examined the prevalence of the ICD-10 code for homelessness, Z59.0, and its concordance with known homeless service use. It also included physician interviews exploring their perspectives on prevalence patterns in using the code.
 
