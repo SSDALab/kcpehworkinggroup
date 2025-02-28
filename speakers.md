@@ -5,7 +5,19 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
+* *03/07/2025* iSchool Capstone Presentation lead by June Yang, Research Scientist, eScience and CSDE, and Ihsan Kahveci, PhD Student, Sociology, UW
+  - Special Time: 3/7 from 10-12PM
+  - Special Location: iSchool. Allen Library 187. Grand Conference Room. 
+ 
+
+<ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+As part of an iSchool Capstone project, a team of 10 undergrad students are working on the development of an open-source software for Respondent-Driven Sampling (RDS) data collection. This web app is designed to facilitate both the data collection and storage of network information, a core component of the RDS method, as well as survey information. The start goal is to use this one-stop open source software to conduct the Point-in-Time (PIT) count of the unhoused population in King County, WA. The app comes with HIPAA compliance design to allow better data integration with the Homeless Management Information System (HIMS). The effort is led by Dr. Almquist, Ihsan Kahveci, and June Yang. 
+</details>
+</ul>
+</ul>
 
 **Upcoming Speakers**
 
@@ -15,6 +27,8 @@ title: Past and Future Speakers
 
 
 **Past Talks**
+
+* *02/21/2025* [Whitney Gent](https://www.unomaha.edu/college-of-communication-fine-arts-and-media/about-us/faculty/school-of-comm/whitney-gent.php), Assistant Professor of Communications at UNL. Will speak on U.S. homelessness rhetoric.
 
 * *02/14/2025* [Molly Richard](https://www.mollykrichard.com/),  Postdoctoral Scholar at Boston University’s Center for Innovation in Social Science -- Will speak on doubled-up population.
 
