@@ -9,9 +9,20 @@ title: Past and Future Speakers
 
 **Upcoming Speakers**
 
-* 10/10 [Ruth Tretter](https://www.linkedin.com/in/ruthetretterrn/), Faculty, University of Montana. Will talk on vehicular living and health. [Zoom]
+* 10/10 [Ruth Tretter](https://www.linkedin.com/in/ruthetretterrn/), Assistant Professor, University of Montana. Will talk on vehicular living and health. [Zoom]
 
 * 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
+
+* 10/24/2025 (Pelle G Tracey)[https://pelletracey.github.io/], Assistant Professor UW iSchool. "Coordinated Entry in Practice: an Ethnographic Investigation of Philadelphia’s Homeless Services System".
+
+<ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+Pelle G. Tracey is an Assistant Professor at the University of Washington Information School. He is a multi-method scholar broadly interested in how automated technologies and recordkeeping work in practice, particularly when deployed in frontline government or rental housing contexts. His current research is an ethnographic investigation of homeless services coordinated entry systems.
+</details>
+</ul>
+</ul>
 
 * 11/21/2025 (Joseph Wallerstein)[https://www.josephwallerstein.com/]. Postdoc at Harvard. TBD. [Zoom]
 
