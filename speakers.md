@@ -9,7 +9,7 @@ title: Past and Future Speakers
 
 **Upcoming Speakers**
 
-* 10/10 Ruth Tretter, Faculty, University of Montana. Will talk on vehicular living and health. [Zoom]
+* 10/10 [Ruth Tretter](https://www.linkedin.com/in/ruthetretterrn/), Faculty, University of Montana. Will talk on vehicular living and health. [Zoom]
 
 * 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
 
