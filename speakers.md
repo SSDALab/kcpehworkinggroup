@@ -13,7 +13,7 @@ title: Past and Future Speakers
 
 * 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
 
-* 10/24/2025 (Pelle G Tracey)[https://pelletracey.github.io/], Assistant Professor UW iSchool. "Coordinated Entry in Practice: an Ethnographic Investigation of Philadelphia’s Homeless Services System".
+* 10/24/2025 [Pelle G Tracey](https://pelletracey.github.io/), Assistant Professor, UW iSchool. "Coordinated Entry in Practice: an Ethnographic Investigation of Philadelphia’s Homeless Services System".
 
 <ul>
 <ul>
@@ -24,7 +24,7 @@ Pelle G. Tracey is an Assistant Professor at the University of Washington Inform
 </ul>
 </ul>
 
-* 11/21/2025 (Joseph Wallerstein)[https://www.josephwallerstein.com/]. Postdoc at Harvard. TBD. [Zoom]
+* 11/21/2025 [Joseph Wallerstein](https://www.josephwallerstein.com/). Postdoc at Harvard. TBD. [Zoom]
 
 
 
