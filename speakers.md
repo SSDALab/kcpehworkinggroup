@@ -5,15 +5,23 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-*  *04/25/2025* [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student, Sociology, UW to talk on his MA Thesis on governmental control of people experiencing homelessness
+* 10/3/2025 -- Welcome to the 2025-2026 School year, in person and Zoom.
 
 **Upcoming Speakers**
 
+* 10/10 Ruth Tretter, Faculty, University of Montana. Will talk on vehicular living and health. [Zoom]
 
-*  *05/16/2025* [Michael Enich](https://scholar.google.com/citations?user=3oZx7DYAAAAJ&hl=en), Internal Medicine Resident, UW -- Will speak on a mixed-methods analysis of linked Medicaid and HMIS claims. It examined the prevalence of the ICD-10 code for homelessness, Z59.0, and its concordance with known homeless service use. It also included physician interviews exploring their perspectives on prevalence patterns in using the code.
+* 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
+
+* 11/21/2025 (Joseph Wallerstein)[https://www.josephwallerstein.com/]. Postdoc at Harvard. TBD. [Zoom]
+
 
 
 **Past Talks**
+
+*  *05/16/2025* [Michael Enich](https://scholar.google.com/citations?user=3oZx7DYAAAAJ&hl=en), Internal Medicine Resident, UW -- Will speak on a mixed-methods analysis of linked Medicaid and HMIS claims. It examined the prevalence of the ICD-10 code for homelessness, Z59.0, and its concordance with known homeless service use. It also included physician interviews exploring their perspectives on prevalence patterns in using the code.
+ 
+*  *04/25/2025* [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student, Sociology, UW to talk on his MA Thesis on governmental control of people experiencing homelessness
 
 * *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health at UC Berkeley -- will speak on couch surfing and issues around youth homelessness.
 
@@ -21,8 +29,7 @@ title: Past and Future Speakers
 * *03/07/2025* iSchool Capstone Presentation lead by [June Yang](https://escience.washington.edu/member/june-yang/), Research Scientist, eScience and CSDE, and [Ihsan Kahveci](https://soc.washington.edu/people/ihsan-kahveci), PhD Student, Sociology, UW
   - Special Time: 3/7 from 10-12PM
   - Special Location: iSchool. Allen Library 187. Grand Conference Room. 
- 
-
+  
 <ul>
 <ul>
 <details>
