@@ -32,7 +32,9 @@ Pelle G. Tracey is an Assistant Professor at the University of Washington Inform
 
 * 11/21/2025 [Joseph Wallerstein](https://www.josephwallerstein.com/). Postdoc at Harvard. TBD. [Zoom]
 
+* 11/28/2025 No Meeting, Thanksgiving
 
+* 12/05/2025 [Zack W. Almquist](https://zalmquist.github.io/), Associate Professor in Sociology, UW. TBD. 
 
 **Past Talks**
 
