@@ -24,6 +24,12 @@ Pelle G. Tracey is an Assistant Professor at the University of Washington Inform
 </ul>
 </ul>
 
+* Raheem Chaudhry, Assistant Professor, Evans School of Public Policy & Governance, UW. "From Marcy to Madison Square? The Effects of Growing Up in Public Housing on Early Adulthood Outcomes" Link to the [Paper](https://www2.census.gov/library/working-papers/2024/adrm/ces/CES-WP-24-67.pdf). 
+
+* 11/62025 No Meeting, APHA Week -- Consider going to APHA!
+
+*  11/14 Yehong Deng, PhD Student in Sociology, UW. Yehong will discuss air quality impacts on people experiencing homelessness.
+
 * 11/21/2025 [Joseph Wallerstein](https://www.josephwallerstein.com/). Postdoc at Harvard. TBD. [Zoom]
 
 
