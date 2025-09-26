@@ -28,7 +28,7 @@ Pelle G. Tracey is an Assistant Professor at the University of Washington Inform
 
 * 11/62025 No Meeting, APHA Week -- Consider going to APHA!
 
-*  11/14 Yehong Deng, PhD Student in Sociology, UW. Yehong will discuss air quality impacts on people experiencing homelessness.
+*  11/14 [Yehong Deng](https://soc.washington.edu/people/yehong-deng), PhD Student in Sociology, UW. Yehong will discuss air quality impacts on people experiencing homelessness.
 
 * 11/21/2025 [Joseph Wallerstein](https://www.josephwallerstein.com/). Postdoc at Harvard. TBD. [Zoom]
 
