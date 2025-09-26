@@ -9,7 +9,7 @@ title: Past and Future Speakers
 
 **Upcoming Speakers**
 
-* 10/10 [Ruth Tretter](https://www.linkedin.com/in/ruthetretterrn/), Assistant Professor, University of Montana. Will talk on vehicular living and health. [Zoom]
+* 10/10/2025 [Ruth Tretter](https://www.linkedin.com/in/ruthetretterrn/), Assistant Professor, University of Montana. Will talk on vehicular living and health. [Zoom]
 
 * 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
 
@@ -26,9 +26,9 @@ Pelle G. Tracey is an Assistant Professor at the University of Washington Inform
 
 * Raheem Chaudhry, Assistant Professor, Evans School of Public Policy & Governance, UW. "From Marcy to Madison Square? The Effects of Growing Up in Public Housing on Early Adulthood Outcomes" Link to the [Paper](https://www2.census.gov/library/working-papers/2024/adrm/ces/CES-WP-24-67.pdf). 
 
-* 11/62025 No Meeting, APHA Week -- Consider going to APHA!
+* 11/6/2025 No Meeting, APHA Week -- Consider going to APHA!
 
-*  11/14 [Yehong Deng](https://soc.washington.edu/people/yehong-deng), PhD Student in Sociology, UW. Yehong will discuss air quality impacts on people experiencing homelessness.
+*  11/14/2025 [Yehong Deng](https://soc.washington.edu/people/yehong-deng), PhD Student in Sociology, UW. Yehong will discuss air quality impacts on people experiencing homelessness.
 
 * 11/21/2025 [Joseph Wallerstein](https://www.josephwallerstein.com/). Postdoc at Harvard. TBD. [Zoom]
 
