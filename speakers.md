@@ -45,7 +45,7 @@ Pelle G. Tracey is an Assistant Professor at the University of Washington Inform
 * *03/14/2025* [Laura Petry](https://www.linkedin.com/in/laura-petry-45225041/), Postdoc UC Berkeley and [Colette Auerswald](https://publichealth.berkeley.edu/people/colette-coco-auerswald), Professor Community Health at UC Berkeley -- will speak on couch surfing and issues around youth homelessness.
 
 
-* *03/07/2025* iSchool Capstone Presentation lead by [June Yang](https://escience.washington.edu/member/june-yang/), Research Scientist, eScience and CSDE, and [Ihsan Kahveci](https://soc.washington.edu/people/ihsan-kahveci), PhD Student, Sociology, UW
+* *03/07/2025* iSchool Capstone Presentation led by [June Yang](https://escience.washington.edu/member/june-yang/), Research Scientist, eScience and CSDE, and [Ihsan Kahveci](https://soc.washington.edu/people/ihsan-kahveci), PhD Student, Sociology, UW
   - Special Time: 3/7 from 10-12PM
   - Special Location: iSchool. Allen Library 187. Grand Conference Room. 
   
