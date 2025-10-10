@@ -5,13 +5,10 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* 10/3/2025 -- Welcome to the 2025-2026 School year, in person and Zoom.
+* 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
 
 **Upcoming Speakers**
 
-* 10/10/2025 [Ruth Tretter](https://www.linkedin.com/in/ruthetretterrn/), Assistant Professor, University of Montana. Will talk on vehicular living and health. [Zoom]
-
-* 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
 
 * 10/24/2025 [Pelle G Tracey](https://pelletracey.github.io/), Assistant Professor, UW iSchool. "Coordinated Entry in Practice: an Ethnographic Investigation of Philadelphia’s Homeless Services System".
 
@@ -37,6 +34,10 @@ Pelle G. Tracey is an Assistant Professor at the University of Washington Inform
 * 12/05/2025 [Zack W. Almquist](https://zalmquist.github.io/), Associate Professor in Sociology, UW. TBD. 
 
 **Past Talks**
+
+* 10/10/2025 [Ruth Tretter](https://www.linkedin.com/in/ruthetretterrn/), Assistant Professor, Montana State University. Will talk on vehicular living and health. [Zoom]
+
+* 10/3/2025 -- Welcome to the 2025-2026 School year, in person and Zoom.
 
 *  *05/16/2025* [Michael Enich](https://scholar.google.com/citations?user=3oZx7DYAAAAJ&hl=en), Internal Medicine Resident, UW -- Will speak on a mixed-methods analysis of linked Medicaid and HMIS claims. It examined the prevalence of the ICD-10 code for homelessness, Z59.0, and its concordance with known homeless service use. It also included physician interviews exploring their perspectives on prevalence patterns in using the code.
  
