@@ -5,11 +5,6 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
-
-**Upcoming Speakers**
-
-
 * 10/24/2025 [Pelle G Tracey](https://pelletracey.github.io/), Assistant Professor, UW iSchool. "Coordinated Entry in Practice: an Ethnographic Investigation of Philadelphia’s Homeless Services System".
 
 <ul>
@@ -21,19 +16,33 @@ Pelle G. Tracey is an Assistant Professor at the University of Washington Inform
 </ul>
 </ul>
 
+
+**Upcoming Speakers**
+
 * 10/31/2025 Raheem Chaudhry, Assistant Professor, Evans School of Public Policy & Governance, UW. "From Marcy to Madison Square? The Effects of Growing Up in Public Housing on Early Adulthood Outcomes" Link to the [Paper](https://www2.census.gov/library/working-papers/2024/adrm/ces/CES-WP-24-67.pdf). 
 
 * 11/7/2025 Michael Fraas, PhD, CCC-SLP, CBIS (Private Practice, Seattle). Focus will be on the incidence of Traumatic Brain Injury (TBI) in the local unhoused/marginally housed community in the greater Seattle area.
 
 *  11/14/2025 [Yehong Deng](https://soc.washington.edu/people/yehong-deng), PhD Student in Sociology, UW. Yehong will discuss air quality impacts on people experiencing homelessness.
 
-* 11/21/2025 [Joseph Wallerstein](https://www.josephwallerstein.com/). Postdoc at Harvard. TBD. [Zoom]
+* 11/21/2025 [Joseph Wallerstein](https://www.josephwallerstein.com/). Postdoc at Harvard. Network-Talk and the Management of Homelessness in America. [Zoom]
+
+ <ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+Joseph (Joey) Wallerstein is a postdoctoral College Fellow in the Department of Sociology at Harvard University. He received his PhD in Sociology from Harvard in May 2024. Broadly, his research focuses on organizations, urban inequality, and homelessness. He is especially interested in how ideas, norms, and strategy at community-based nonprofits in the United States impact the management of homelessness and, by extension, the well-being of people experiencing homelessness.
+</details>
+</ul>
+</ul>
 
 * 11/28/2025 No Meeting, Thanksgiving
 
 * 12/05/2025 [Zack W. Almquist](https://zalmquist.github.io/), Associate Professor in Sociology, UW. TBD. 
 
 **Past Talks**
+
+* 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
 
 * 10/10/2025 [Ruth Tretter](https://www.linkedin.com/in/ruthetretterrn/), Assistant Professor, Montana State University. Will talk on vehicular living and health. [Zoom]
 
