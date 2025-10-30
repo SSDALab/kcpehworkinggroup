@@ -5,21 +5,10 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* 10/24/2025 [Pelle G Tracey](https://pelletracey.github.io/), Assistant Professor, UW iSchool. "Coordinated Entry in Practice: an Ethnographic Investigation of Philadelphia’s Homeless Services System".
-
-<ul>
-<ul>
-<details>
-<summary>Click for details</summary>
-Pelle G. Tracey is an Assistant Professor at the University of Washington Information School. He is a multi-method scholar broadly interested in how automated technologies and recordkeeping work in practice, particularly when deployed in frontline government or rental housing contexts. His current research is an ethnographic investigation of homeless services coordinated entry systems.
-</details>
-</ul>
-</ul>
+* 10/31/2025 Raheem Chaudhry, Assistant Professor, Evans School of Public Policy & Governance, UW. "From Marcy to Madison Square? The Effects of Growing Up in Public Housing on Early Adulthood Outcomes" Link to the [Paper](https://www2.census.gov/library/working-papers/2024/adrm/ces/CES-WP-24-67.pdf). 
 
 
 **Upcoming Speakers**
-
-* 10/31/2025 Raheem Chaudhry, Assistant Professor, Evans School of Public Policy & Governance, UW. "From Marcy to Madison Square? The Effects of Growing Up in Public Housing on Early Adulthood Outcomes" Link to the [Paper](https://www2.census.gov/library/working-papers/2024/adrm/ces/CES-WP-24-67.pdf). 
 
 * 11/7/2025 Michael Fraas, PhD, CCC-SLP, CBIS (Private Practice, Seattle). Focus will be on the incidence of Traumatic Brain Injury (TBI) in the local unhoused/marginally housed community in the greater Seattle area.
 
@@ -41,6 +30,17 @@ Joseph (Joey) Wallerstein is a postdoctoral College Fellow in the Department of 
 * 12/05/2025 [Zack W. Almquist](https://zalmquist.github.io/), Associate Professor in Sociology, UW. TBD. 
 
 **Past Talks**
+
+* 10/24/2025 [Pelle G Tracey](https://pelletracey.github.io/), Assistant Professor, UW iSchool. "Coordinated Entry in Practice: an Ethnographic Investigation of Philadelphia’s Homeless Services System".
+
+<ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+Pelle G. Tracey is an Assistant Professor at the University of Washington Information School. He is a multi-method scholar broadly interested in how automated technologies and recordkeeping work in practice, particularly when deployed in frontline government or rental housing contexts. His current research is an ethnographic investigation of homeless services coordinated entry systems.
+</details>
+</ul>
+</ul>
 
 * 10/17/2025 Nathalie E. Williams, Mingze Li, Brandon Morande, Yuanxi Li, Hugo Aguas, Caroline Teague, Aryaa Rajouria, Justin Simpson, Man-Lin Chen, Ihsan Kahveci, Zack W. Almquist, Amy Hagopian, and Paul Hebert. University of Washington. "A Portrait of the Unhoused Population of Seattle, WA 2023." CSDE Policy Report. [In person]
 
