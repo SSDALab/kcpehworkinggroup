@@ -5,15 +5,6 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* 10/31/2025 Raheem Chaudhry, Assistant Professor, Evans School of Public Policy & Governance, UW. "From Marcy to Madison Square? The Effects of Growing Up in Public Housing on Early Adulthood Outcomes" Link to the [Paper](https://www2.census.gov/library/working-papers/2024/adrm/ces/CES-WP-24-67.pdf). 
-
-
-**Upcoming Speakers**
-
-* 11/7/2025 Michael Fraas, PhD, CCC-SLP, CBIS (Private Practice, Seattle). Focus will be on the incidence of Traumatic Brain Injury (TBI) in the local unhoused/marginally housed community in the greater Seattle area.
-
-*  11/14/2025 [Yehong Deng](https://soc.washington.edu/people/yehong-deng), PhD Student in Sociology, UW. Yehong will discuss air quality impacts on people experiencing homelessness.
-
 * 11/21/2025 [Joseph Wallerstein](https://www.josephwallerstein.com/). Postdoc at Harvard. Network-Talk and the Management of Homelessness in America. [Zoom]
 
  <ul>
@@ -25,11 +16,21 @@ Joseph (Joey) Wallerstein is a postdoctoral College Fellow in the Department of 
 </ul>
 </ul>
 
+**Upcoming Speakers**
+
 * 11/28/2025 No Meeting, Thanksgiving
+
 
 * 12/05/2025 [Zack W. Almquist](https://zalmquist.github.io/), Associate Professor in Sociology, UW. TBD. 
 
 **Past Talks**
+
+*  11/14/2025 [Yehong Deng](https://soc.washington.edu/people/yehong-deng), PhD Student in Sociology, UW. Yehong will discuss air quality impacts on people experiencing homelessness.
+
+* 11/7/2025 Michael Fraas, PhD, CCC-SLP, CBIS (Private Practice, Seattle). Focus will be on the incidence of Traumatic Brain Injury (TBI) in the local unhoused/marginally housed community in the greater Seattle area.
+
+* 10/31/2025 Raheem Chaudhry, Assistant Professor, Evans School of Public Policy & Governance, UW. "From Marcy to Madison Square? The Effects of Growing Up in Public Housing on Early Adulthood Outcomes" Link to the [Paper](https://www2.census.gov/library/working-papers/2024/adrm/ces/CES-WP-24-67.pdf). 
+
 
 * 10/24/2025 [Pelle G Tracey](https://pelletracey.github.io/), Assistant Professor, UW iSchool. "Coordinated Entry in Practice: an Ethnographic Investigation of Philadelphia’s Homeless Services System".
 
