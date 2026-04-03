@@ -5,25 +5,57 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
+* 4/2/2026 Open house. Virtual only.
+
+
+**Upcoming Speakers**
+
+
+* 4/10/2026 Katherine R. McLaughlin, Associate Professor, Director – Survey Research Center, Department of Statistics, Oregon State University. **In person**. Modeling The Visibility Distribution for Respondent-Driven Sampling with Application to Population Size Estimation
+
+ <ul>
+<ul>
+<details>
+<summary>Click for details</summary>
+Respondent-driven sampling (RDS) is a network sampling method commonly used to access
+hidden populations, such as those at high risk for HIV/AIDS and related diseases, in situations where
+sampling frames do not exist and conventional sampling techniques are not possible. In RDS, participants
+recruit their peers into the study, which has proven effective as an enrollment strategy but requires careful
+statistical analysis when making inference about the population. Data from RDS surveys inform key policy
+and resource allocation decisions, and in particular population size estimates are essential to understand
+counts of at-risk individuals to develop counseling and treatment programs and monitor health needs and
+epidemics. Successive sampling population size estimation (SS-PSE) is a commonly used method to
+estimate population size from RDS surveys, in which the decrease in social network size of participants
+over the study period is used to gauge the sample fraction. We first present the SS-PSE methodology
+and compare it with several other commonly used population size estimation methods. We then present a
+modification to the SS-PSE methodology that jointly models the effective social network size of each
+individual, which we term visibility, along with the population size in a Bayesian framework. This
+enhancement adds a measurement error model for visibility in place of self-reported network size and a
+model for the number of recruits an individual can enroll. This is useful as self-reported network sizes are
+subject to missingness, misreporting, bias, and extreme values. Inferred visibilities are a way to smooth
+the degree distribution and bring in outliers as well as a mechanism to deal with missing and invalid
+network sizes. We demonstrate the performance of visibility SS-PSE on three populations from Kosovo
+sampled in 2014 using RDS.
+</details>
+</ul>
+</ul>
+
+
+
+**Past Talks**
+
+* 12/05/2025 [Zack W. Almquist](https://zalmquist.github.io/), Associate Professor in Sociology, UW. Overview of RDS employed to estimate totals and percentages for people experiencing unsheltered homelessness.
+
 * 11/21/2025 [Joseph Wallerstein](https://www.josephwallerstein.com/). Postdoc at Harvard. Network-Talk and the Management of Homelessness in America. [Zoom]
 
  <ul>
 <ul>
 <details>
 <summary>Click for details</summary>
-Joseph (Joey) Wallerstein is a postdoctoral College Fellow in the Department of Sociology at Harvard University. He received his PhD in Sociology from Harvard in May 2024. Broadly, his research focuses on organizations, urban inequality, and homelessness. He is especially interested in how ideas, norms, and strategy at community-based nonprofits in the United States impact the management of homelessness and, by extension, the well-being of people experiencing homelessness.
+Joseph (Joey) Wallerstein is a postdoctoral College Fellow in the Department of Sociology at Harvard University. He received his PhD in Sociology from Harvard in May 2024. Broadly, his research focuses on organizations, urban inequality, and homelessness. He is especially interested in how ideas, norms, and strategies at community-based nonprofits in the United States impact the management of homelessness and, by extension, the well-being of people experiencing homelessness.
 </details>
 </ul>
 </ul>
-
-**Upcoming Speakers**
-
-* 11/28/2025 No Meeting, Thanksgiving
-
-
-* 12/05/2025 [Zack W. Almquist](https://zalmquist.github.io/), Associate Professor in Sociology, UW. TBD. 
-
-**Past Talks**
 
 *  11/14/2025 [Yehong Deng](https://soc.washington.edu/people/yehong-deng), PhD Student in Sociology, UW. Yehong will discuss air quality impacts on people experiencing homelessness.
 
