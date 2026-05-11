@@ -5,34 +5,34 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* **17/04/2025** — Hugo Aguas, Graduate Student, UW Sociology
-  * *Host: Brandon (Zack away)*
+* **05/15/2025** — Joseph Wallerstein, Harvard
 
 
 **Upcoming Speakers**
 
 
-* **24/04/2025** — Yehong Deng, Graduate Student, UW Sociology
-  * Speaking on impacts of air quality on years of life
-  * *Host: Amy (Brandon assisting; Zack away)*
-
-* **01/05/2025** — Naishin Fu (she/her), Co-Executive Director of Operations & Planning, [House Our Neighbors](mailto:naishin@houseourneighbors.org)
-
-* **08/05/2025** — ~~PAA~~ *Cancelled*
-
-* **15/05/2025** — Joseph Wallerstein, Harvard
-
-* **22/05/2025** — Brooke Kaye, UW
+* **05/22/2025** — Brooke Kaye, UW
   * Presenting on doubled-up population from UW PIT 2023 data
 
-* **29/05/2025** — [David Nelson, PhD](https://www.mcw.edu/departments/family-and-community-medicine/center-for-healthy-communities-and-research/people/david-nelson-phd), Professor, Medical College of Wisconsin
+* **05/29/2025** — [David Nelson, PhD](https://www.mcw.edu/departments/family-and-community-medicine/center-for-healthy-communities-and-research/people/david-nelson-phd), Professor, Medical College of Wisconsin
   * Speaking on elderly people experiencing homelessness
 
-* **05/06/2025** — *TBD*
+* **06/05/2025** — *TBD*
 
 
 **Past Talks**
 
+
+* **05/08/2025** — ~~PAA~~ *Cancelled*
+
+* **05/01/2025** — Naishin Fu (she/her), Co-Executive Director of Operations & Planning, [House Our Neighbors](mailto:naishin@houseourneighbors.org)
+
+* **04/24/2025** — Yehong Deng, Graduate Student, UW Sociology
+  * Speaking on impacts of air quality on years of life
+  * *Host: Amy (Brandon assisting; Zack away)*
+
+* **04/17/2025** — Hugo Aguas, Graduate Student, UW Sociology
+  * *Host: Brandon (Zack away)*
 
 * 4/10/2026 Katherine R. McLaughlin, Associate Professor, Director – Survey Research Center, Department of Statistics, Oregon State University. **In person**. Modeling The Visibility Distribution for Respondent-Driven Sampling with Application to Population Size Estimation
 
