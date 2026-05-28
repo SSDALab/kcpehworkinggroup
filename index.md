@@ -10,7 +10,7 @@ layout: default
 
 <img width="300px" src="{{ site.url }}{{ site.baseurl }}/assets/img/savery.png">
 * Location: [Savery Hall](https://www.washington.edu/maps/#!/sav) Room 409
-* Time: 10:00 AM to 11:00 PM every Friday
+* Time: 10:00 to 11:00 AM every Friday
 * Zoom (Hybrid): [Registration Link](https://washington.zoom.us/meeting/register/SIDoJZ0mQWWKJRlM64Oitg)
 * Calendar:
 <iframe src="https://calendar.google.com/calendar/embed?src=c_8a4d342ffc52c6a6cd74d8b34194357db32be62ebd88f9ba47e235570c29e78e%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
