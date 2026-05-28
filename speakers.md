@@ -5,24 +5,20 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* **05/15/2025** — Joseph Wallerstein, Harvard
-
-
-**Upcoming Speakers**
-
-
-* **05/22/2025** — Brooke Kaye, UW
-  * Presenting on doubled-up population from UW PIT 2023 data
-
 * **05/29/2025** — [David Nelson, PhD](https://www.mcw.edu/departments/family-and-community-medicine/center-for-healthy-communities-and-research/people/david-nelson-phd), Professor, Medical College of Wisconsin
   * Speaking on elderly people experiencing homelessness
 
-* **06/05/2025** — *TBD*
+**Upcoming Speakers**
 
+* **06/05/2025** — *TBD*
 
 **Past Talks**
 
+* **05/22/2025** — Brooke Kaye, UW
+  * Presenting on the doubled-up population from the UW PIT 2023 data
 
+* **05/15/2025** — Joseph Wallerstein, Harvard
+ 
 * **05/08/2025** — ~~PAA~~ *Cancelled*
 
 * **05/01/2025** — Naishin Fu (she/her), Co-Executive Director of Operations & Planning, [House Our Neighbors](mailto:naishin@houseourneighbors.org)
