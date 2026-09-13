@@ -12,36 +12,12 @@
 
     <nav class="sidebar-nav">
 
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/speakers' | prepend: site.baseurl }}">Speakers</a>
-      <!-- An example of a section with drop-down menu -->
-      <button class="dropdown-btn">About
-          <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-container">
-          <a href="{{ '/about' | prepend: site.baseurl }}">Members</a><br/>
-          <a href="{{ '/projects' | prepend: site.baseurl }}">Projects</a>
-      </div>
-      
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/funding' | prepend: site.baseurl }}">Funding & Partners</a>
-
-      <script>
-/* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
-var dropdown = document.getElementsByClassName("dropdown-btn");
-var i;
-
-for (i = 0; i < dropdown.length; i++) {
-  dropdown[i].addEventListener("click", function() {
-  this.classList.toggle("active");
-  var dropdownContent = this.nextElementSibling;
-  if (dropdownContent.style.display === "block") {
-  dropdownContent.style.display = "none";
-  } else {
-  dropdownContent.style.display = "block";
-  }
-  });
-}
-</script>
+      {% assign nav_items = "/,Home|/about/,About|/speakers/,Speakers|/members/,Members|/projects/,Projects|/funding/,Funding & Partners" | split: "|" %}
+      {% for item in nav_items %}
+        {% assign parts = item | split: "," %}
+        {% assign href = parts[0] %}
+        <a class="sidebar-nav-item{% if page.url == href %} active{% endif %}" href="{{ href | prepend: site.baseurl }}">{{ parts[1] }}</a>
+      {% endfor %}
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -60,7 +36,6 @@ for (i = 0; i < dropdown.length; i++) {
       {% endcomment %}
 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
-      <span class="sidebar-nav-item">v{{ site.version }}</span>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

@@ -12,10 +12,7 @@ url:              "https://ssdalab.github.io/"
 baseurl:          "/kcpehworkinggroup"
 
 
-paginate:         5
 
-# Custom vars
-version:          0.0.0
 
 github:
   repo:           https://github.com/SSDALab/kcpehworkinggroup

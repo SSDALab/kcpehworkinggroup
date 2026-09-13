@@ -5,14 +5,41 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* **05/29/2025** — [David Nelson, PhD](https://www.mcw.edu/departments/family-and-community-medicine/center-for-healthy-communities-and-research/people/david-nelson-phd), Professor, Medical College of Wisconsin
-  * Speaking on elderly people experiencing homelessness
+* **10/02/2026** — Introductions and welcome to the 2026-2027 school year
+  * Informal gathering over coffee and snacks
 
 **Upcoming Speakers**
 
-* **06/05/2025** — *TBD*
+* **10/09/2026** — [Neil Gong](https://www.neilgong.com/), Associate Professor of Sociology, UC San Diego
+  * Speaking on his book [*Sons, Daughters, and Sidewalk Psychotics: Mental Illness and Homelessness in Los Angeles*](https://press.uchicago.edu/ucp/books/book/chicago/S/bo212067953.html), and on "tolerant containment" as a general dynamic across the West Coast
+  * *Suggested reading: Chapter 2, on mental health and homeless outreach, and the first four pages of the conclusion*
+
+* **10/16/2026** — [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Marsha and Jay Glazer Endowed University Professor and Associate Professor, Runstad Department of Real Estate, College of Built Environments, UW
+  * Founder and Director, [Housing Futures Center](https://re.be.uw.edu/), UW
+
+* **10/23/2026** — [Armando Solorzano](https://thestreetspirit.org/article_author/armando-solorzano/), encampment support and policy advocate, Oakland, CA
+  * Organizing with Wood Street Commons, Love and Justice in the Streets, and the East Oakland Collective
+
+* **10/30/2026** — [Zack W. Almquist](https://zalmquist.github.io/), Professor of Sociology, UW
+  * Presenting on community reports from the PIT count
+
+* **11/06/2026** — [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student, Sociology, UW
+  * "Displacing Disorder: Relationships between Crime, Complaints, and Homeless Clearances"
+
+* **11/13/2026** — [Amanda Landrian Gonzalez, PhD, MPH](https://dworakpeck.usc.edu/research/centers/homelessness-housing-health-equity/people), Statistician, Center for Homelessness, Housing and Health Equity Research, USC, and [Robin Petering, PhD, MSW](https://www.yp2f.org/about), Founder and CEO, [Young People to the Front](https://www.yp2f.org/) (YP2F)
+
+* **11/20/2026** — [Caitlin Orton, MPH](https://www.linkedin.com/in/caitlin-orton/), PhD Student, Implementation Science, UW Global Health
+  * Presenting on [EQUIP](https://pmc.ncbi.nlm.nih.gov/articles/PMC11958422/) — Equipping People Who are Unhoused with Fire, Burn and Cold Injury Prevention Education
+
+* **11/27/2026** — *No meeting* (day after Thanksgiving)
+
+* **12/04/2026** — [Kaitlyn (Katie) Berry, PhD](https://directory.sph.umn.edu/bio/sph-a-z/kaitlyn-berry), Assistant Professor, Division of Epidemiology & Community Health, University of Minnesota School of Public Health
+  * Social epidemiologist working on homeless mortality estimates and how local policy shapes mortality among people experiencing homelessness
 
 **Past Talks**
+
+* **05/29/2025** — [David Nelson, PhD](https://www.mcw.edu/departments/family-and-community-medicine/center-for-healthy-communities-and-research/people/david-nelson-phd), Professor, Medical College of Wisconsin
+  * Spoke on elderly people experiencing homelessness
 
 * **05/22/2025** — Brooke Kaye, UW
   * Presenting on the doubled-up population from the UW PIT 2023 data
