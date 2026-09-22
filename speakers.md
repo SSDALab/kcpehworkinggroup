@@ -5,8 +5,9 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* **10/02/2026** — Introductions and welcome to the 2026-2027 school year
+* **10/02/2026** — Introductions and welcome to the 2026-2027 school year, with [Zack W. Almquist](https://zalmquist.github.io/), Professor of Sociology, UW
   * Informal gathering over coffee and snacks
+  * Short discussion from Dr. Almquist on the community reports coming out of the 2026 PIT count
 
 **Upcoming Speakers**
 
@@ -17,11 +18,10 @@ title: Past and Future Speakers
 * **10/16/2026** — [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Marsha and Jay Glazer Endowed University Professor and Associate Professor, Runstad Department of Real Estate, College of Built Environments, UW
   * Founder and Director, [Housing Futures Center](https://re.be.uw.edu/), UW
 
-* **10/23/2026** — [Armando Solorzano](https://thestreetspirit.org/article_author/armando-solorzano/), encampment support and policy advocate, Oakland, CA
-  * Organizing with Wood Street Commons, Love and Justice in the Streets, and the East Oakland Collective
+* **10/23/2026** — Bradley Kramer, PhD, MPA (he/him), Program Manager, [Climate & Health Equity Initiative](https://kingcounty.gov/en/dept/dph/about-king-county/about-public-health/data-reports/chei), Public Health — Seattle & King County
 
-* **10/30/2026** — [Zack W. Almquist](https://zalmquist.github.io/), Professor of Sociology, UW
-  * Presenting on community reports from the PIT count
+* **10/30/2026** — [Armando Solorzano](https://thestreetspirit.org/article_author/armando-solorzano/), encampment support and policy advocate, Oakland, CA
+  * Organizing with Wood Street Commons, Love and Justice in the Streets, and the East Oakland Collective
 
 * **11/06/2026** — [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student, Sociology, UW
   * "Displacing Disorder: Relationships between Crime, Complaints, and Homeless Clearances"
