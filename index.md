@@ -150,6 +150,7 @@ title: Home
 
 * [Zack W. Almquist](https://depts.washington.edu/zalmquist), Sociology
 * [Amy Hagopian](https://sph.washington.edu/sph-profiles/faculty-profiles/amy-hagopian), Health Systems and Population Health
+* [Pelle G. Tracey](https://ischool.uw.edu/people/faculty/profile/ptracey), Information School
 
 ## Email List
 

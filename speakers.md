@@ -5,20 +5,9 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* **10/02/2026** — Introductions and welcome to the 2026-2027 school year, with [Zack W. Almquist](https://zalmquist.github.io/), Professor of Sociology, UW
-  * Informal gathering over coffee and snacks
-  * Short discussion from Dr. Almquist on the community reports coming out of the 2026 PIT count
+* **10/23/2026** — Bradley Kramer, PhD, MPA (he/him), Program Manager, [Climate & Health Equity Initiative](https://kingcounty.gov/en/dept/dph/about-king-county/about-public-health/data-reports/chei), Public Health — Seattle & King County
 
 **Upcoming Speakers**
-
-* **10/09/2026** — [Neil Gong](https://www.neilgong.com/), Associate Professor of Sociology, UC San Diego
-  * Speaking on his book [*Sons, Daughters, and Sidewalk Psychotics: Mental Illness and Homelessness in Los Angeles*](https://press.uchicago.edu/ucp/books/book/chicago/S/bo212067953.html), and on "tolerant containment" as a general dynamic across the West Coast
-  * *Suggested reading: Chapter 2, on mental health and homeless outreach, and the first four pages of the conclusion*
-
-* **10/16/2026** — [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Marsha and Jay Glazer Endowed University Professor and Associate Professor, Runstad Department of Real Estate, College of Built Environments, UW
-  * Founder and Director, [Housing Futures Center](https://re.be.uw.edu/), UW
-
-* **10/23/2026** — Bradley Kramer, PhD, MPA (he/him), Program Manager, [Climate & Health Equity Initiative](https://kingcounty.gov/en/dept/dph/about-king-county/about-public-health/data-reports/chei), Public Health — Seattle & King County
 
 * **10/30/2026** — [Armando Solorzano](https://thestreetspirit.org/article_author/armando-solorzano/), encampment support and policy advocate, Oakland, CA
   * Organizing with Wood Street Commons, Love and Justice in the Streets, and the East Oakland Collective
@@ -36,7 +25,45 @@ title: Past and Future Speakers
 * **12/04/2026** — [Kaitlyn (Katie) Berry, PhD](https://directory.sph.umn.edu/bio/sph-a-z/kaitlyn-berry), Assistant Professor, Division of Epidemiology & Community Health, University of Minnesota School of Public Health
   * Social epidemiologist working on homeless mortality estimates and how local policy shapes mortality among people experiencing homelessness
 
+**Winter Quarter Speakers**
+
+* **01/01/2027** — *No meeting* (New Year's Day)
+
+* **01/08/2027** — Introductions and welcome to Winter Quarter
+  * Informal gathering over coffee and snacks
+  * [Zack W. Almquist](https://zalmquist.github.io/), Professor of Sociology, UW, will discuss the Community Reports generated from the 2026 PIT data
+
+* **01/15/2027** — Karina O'Malley, Safe Parking Coordinator, [Lake Washington United Methodist Church](https://lakewaumc.org/) Safe Parking, Kirkland, WA
+
+* **01/22/2027** — Alyson Moon, Director of Community Impact, [Mary's Place](https://www.marysplaceseattle.org/)
+
+* **01/29/2027** — [Jeff Rose](https://health.utah.edu/staff/jeff-rose), Associate Professor, College of Health, University of Utah
+  * "Patterns of unsheltered homelessness over time: mapping visible urban encampments in Salt Lake City, Utah"
+
+* **02/05/2027** — *TBD*
+
+* **02/12/2027** — *TBD*
+
+* **02/19/2027** — *TBD*
+
+* **02/26/2027** — *TBD*
+
+* **03/05/2027** — *TBD*
+
+* **03/12/2027** — [Walter Hatch](https://web.colby.edu/walterhatch/), Professor Emeritus, Government, Colby College
+  * Research affiliations: University of Washington and Harvard
+
 **Past Talks**
+
+* **10/16/2026** — [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Marsha and Jay Glazer Endowed University Professor and Associate Professor, Runstad Department of Real Estate, College of Built Environments, UW
+  * Founder and Director, [Housing Futures Center](https://re.be.uw.edu/), UW
+
+* **10/09/2026** — [Neil Gong](https://www.neilgong.com/), Associate Professor of Sociology, UC San Diego
+  * Spoke on his book [*Sons, Daughters, and Sidewalk Psychotics: Mental Illness and Homelessness in Los Angeles*](https://press.uchicago.edu/ucp/books/book/chicago/S/bo212067953.html), and on "tolerant containment" as a general dynamic across the West Coast
+
+* **10/02/2026** — Introductions and welcome to the 2026-2027 school year, with [Zack W. Almquist](https://zalmquist.github.io/), Professor of Sociology, UW
+  * Informal gathering over coffee and snacks
+  * Short discussion from Dr. Almquist on the community reports coming out of the 2026 PIT count
 
 * **05/29/2025** — [David Nelson, PhD](https://www.mcw.edu/departments/family-and-community-medicine/center-for-healthy-communities-and-research/people/david-nelson-phd), Professor, Medical College of Wisconsin
   * Spoke on elderly people experiencing homelessness

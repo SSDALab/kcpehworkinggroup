@@ -52,6 +52,19 @@ Room 409, and on Zoom. See [Speakers]({{ site.baseurl }}/speakers) for the curre
 </div>
 
 <div class="sponsor">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/pelle-tracey.jpg" alt="Pelle G. Tracey">
+  <div class="sponsor-body">
+    <h3><a href="https://ischool.uw.edu/people/faculty/profile/ptracey">Pelle G. Tracey</a></h3>
+    <p class="sponsor-affil">Assistant Professor, Information School, University of Washington</p>
+    <p>Pelle G. Tracey is an ethnographer and humanistic social scientist who studies how
+    recordkeeping and automated technologies work in practice, particularly in frontline government,
+    care work, and rental housing settings. His current research is an ethnographic investigation of
+    homeless services coordinated entry systems, which determine how life-saving aid is allocated to
+    vulnerable people. He holds a PhD in Information from the University of Michigan.</p>
+  </div>
+</div>
+
+<div class="sponsor">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/hagopian-amy-closeup.jpg" alt="Amy Hagopian">
   <div class="sponsor-body">
     <h3><a href="https://sph.washington.edu/sph-profiles/faculty-profiles/amy-hagopian">Amy Hagopian</a></h3>
@@ -63,5 +76,4 @@ Room 409, and on Zoom. See [Speakers]({{ site.baseurl }}/speakers) for the curre
   </div>
 </div>
 
-See the full [Members]({{ site.baseurl }}/members) page for the faculty, research scientists,
-postdocs, and students who take part in the group.
+See the [Leadership]({{ site.baseurl }}/leadership/) page for the faculty who convene the group.

@@ -12,7 +12,7 @@
 
     <nav class="sidebar-nav">
 
-      {% assign nav_items = "/,Home|/about/,About|/speakers/,Speakers|/members/,Members|/projects/,Projects|/funding/,Funding & Partners" | split: "|" %}
+      {% assign nav_items = "/,Home|/about/,About|/speakers/,Speakers|/leadership/,Leadership|/projects/,Projects|/pit-reports/,2026 PIT Reports|/funding/,Funding & Partners" | split: "|" %}
       {% for item in nav_items %}
         {% assign parts = item | split: "," %}
         {% assign href = parts[0] %}
