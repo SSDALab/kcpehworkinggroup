@@ -5,20 +5,10 @@ title: Past and Future Speakers
 
 **Next Speaker**
 
-* **10/23/2026** — Bradley Kramer, PhD, MPA (he/him), Program Manager, [Climate & Health Equity Initiative](https://kingcounty.gov/en/dept/dph/about-king-county/about-public-health/data-reports/chei), Public Health — Seattle & King County
-
-**Upcoming Speakers**
-
-* **10/30/2026** — [Armando Solorzano](https://thestreetspirit.org/article_author/armando-solorzano/), encampment support and policy advocate, Oakland, CA
-  * Organizing with Wood Street Commons, Love and Justice in the Streets, and the East Oakland Collective
-
-* **11/06/2026** — [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student, Sociology, UW
-  * "Displacing Disorder: Relationships between Crime, Complaints, and Homeless Clearances"
-
-* **11/13/2026** — [Amanda Landrian Gonzalez, PhD, MPH](https://dworakpeck.usc.edu/research/centers/homelessness-housing-health-equity/people), Statistician, Center for Homelessness, Housing and Health Equity Research, USC, and [Robin Petering, PhD, MSW](https://www.yp2f.org/about), Founder and CEO, [Young People to the Front](https://www.yp2f.org/) (YP2F)
-
 * **11/20/2026** — [Caitlin Orton, MPH](https://www.linkedin.com/in/caitlin-orton/), PhD Student, Implementation Science, UW Global Health
   * Presenting on [EQUIP](https://pmc.ncbi.nlm.nih.gov/articles/PMC11958422/) — Equipping People Who are Unhoused with Fire, Burn and Cold Injury Prevention Education
+
+**Upcoming Speakers**
 
 * **11/27/2026** — *No meeting* (day after Thanksgiving)
 
@@ -54,6 +44,16 @@ title: Past and Future Speakers
   * Research affiliations: University of Washington and Harvard
 
 **Past Talks**
+
+* **11/13/2026** — [Amanda Landrian Gonzalez, PhD, MPH](https://dworakpeck.usc.edu/research/centers/homelessness-housing-health-equity/people), Statistician, Center for Homelessness, Housing and Health Equity Research, USC, and [Robin Petering, PhD, MSW](https://www.yp2f.org/about), Founder and CEO, [Young People to the Front](https://www.yp2f.org/) (YP2F)
+
+* **11/06/2026** — [Brandon Morande](https://soc.washington.edu/people/brandon-morande), PhD Student, Sociology, UW
+  * "Displacing Disorder: Relationships between Crime, Complaints, and Homeless Clearances"
+
+* **10/30/2026** — [Armando Solorzano](https://thestreetspirit.org/article_author/armando-solorzano/), encampment support and policy advocate, Oakland, CA
+  * Organizing with Wood Street Commons, Love and Justice in the Streets, and the East Oakland Collective
+
+* **10/23/2026** — Bradley Kramer, PhD, MPA (he/him), Program Manager, [Climate & Health Equity Initiative](https://kingcounty.gov/en/dept/dph/about-king-county/about-public-health/data-reports/chei), Public Health — Seattle & King County
 
 * **10/16/2026** — [Gregg Colburn](https://re.be.uw.edu/people/gregg-colburn/), Marsha and Jay Glazer Endowed University Professor and Associate Professor, Runstad Department of Real Estate, College of Built Environments, UW
   * Founder and Director, [Housing Futures Center](https://re.be.uw.edu/), UW
